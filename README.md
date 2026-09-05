@@ -24,7 +24,7 @@ Performed EDA across payment methods, products, referral sources, and revenue tr
 **Tools Used:** Excel (formulas, conditional formatting, PivotTables, box-and-whisker/distribution charts)
 
 ### Project 3 — SQL Data Analysis 
-Imported the cleaned dataset into SQL Server. Checked for data types, constraints and column headers to ensure accurate and successful import of the file. Extracted business insights focused on sales performance, customer behaviour, product performance, Referral channel performance and Monthly/Yearly trend. Used SQL statements SELECT, WHERE, GROUP BY, HAVING, including aggregate and scalar functions (COUNT, SUM, AVG, ROUND). 
+Imported the cleaned dataset into SQL Server. Checked for data types, constraints and column headers to ensure accurate and successful import of the file. Extracted business insights based on KPIs including sales performance, customer behaviour, product performance, Referral channel performance and Monthly/Yearly trend. Used SQL statements SELECT, WHERE, GROUP BY, HAVING, including aggregate and scalar functions (COUNT, SUM, AVG, ROUND). 
 
 **Tools Used:** SQL Server, SQL Server Management Studio (SSMS)
 
